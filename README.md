@@ -1,2 +1,2 @@
 # test3-sentinel-
-test3&lt;sentinel>"'
+test3<sentinel>"'\"\'\\
